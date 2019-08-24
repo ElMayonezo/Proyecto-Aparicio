@@ -1,3 +1,3 @@
-# Proyecto-Aparicio
+# Proyecto-Programacion Web
 
-Esta es la pagina web de Christian Alexander Aparicio Martinez (17-2194-2017)
+Esta es la pagina web de la Tienda de Repuestos SUMISAL
